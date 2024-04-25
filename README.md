@@ -1,0 +1,2 @@
+# FinalCompetitionTask
+almost all
